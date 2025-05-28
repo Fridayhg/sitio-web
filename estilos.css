@@ -1,0 +1,65 @@
+.mibarra{
+    background-color: rgb(250, 216, 129);
+}
+.nav-link{
+    color:  rgb(255, 255, 255);
+}
+.nav-link:hover{
+    color: rgb(211, 123, 23) !important;
+}
+
+.active{
+    color: rgb(50, 124, 221) !important;
+}
+
+.hero-content{
+    background: url('img/recorte\ del\ recorte.jpeg') no-repeat center center/cover;
+    height: 100vh;
+    color: black;
+    text-align: center;
+ padding: 0 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ 
+}
+
+.intro{
+    font-size: 20px;
+    margin:0 auto 10px;
+    margin-top: 70px;
+    max-width: 700px;
+    line-height: 1.6em;
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    background-color:rgb(250, 216, 129);
+    color: rgb(23, 102, 204);
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+main{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.text-center{
+    color: rgb(89, 151, 223);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+.card-title{
+    color: hotpink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.card-text{
+    color: hotpink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
